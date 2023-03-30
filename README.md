@@ -14,20 +14,20 @@
 
 ## 下載方式
 
-請點我下載。
+[請點我下載](https://github.com/justfont/The-Write-Right-Font/releases/download/2023.0401/the-write-right-font-2023.0401.ttf)。
 
-或是點選本頁面右側「[Releases]()」處的最新發行版本，下載 **?????.zip**。解壓縮後安裝裡面的 .otf 字型檔案即可。
+或是點選本頁面右側「[Releases](https://github.com/justfont/The-Write-Right-Font/releases)」處的最新發行版本，下載 **the-write-right-font.ttf** 安裝。
 
 ## 更新紀錄
 
-- `2024.0401` (2023/4/1)
+- `2023.0401` (2023/4/1)
     - 初次對外公開。
 
 ## 支援詞彙
 
-**就是不錯字（吧）**本詞庫由 justfont 團隊工人智慧收錄，所支援修正之常見錯字包含華語、台語、客語常見誤用字詞，用法標準以教育部辭典與推薦用字為主。
+**就是不錯字（吧）** 本詞庫由 justfont 團隊工人智慧收錄，所支援修正之常見錯字包含華語、台語、客語常見誤用字詞，用法標準以教育部辭典與推薦用字為主。
 
-完整收錄字詞表請見**傳送門。**
+完整收錄字詞表請見 **傳送門。**
 
 若您針對收錄詞彙有相關建議，歡迎[點此](https://forms.gle/ieyLP4Cng5uz2oHz6)表單回報，也可以[在這邊](https://reurl.cc/OV6W7v)看看其他使用者回報的詞語。
 
