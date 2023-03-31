@@ -30,7 +30,7 @@ aka 您的在再救星 —— **「就是不錯字（吧）」！**
 
 ### **下載**
  
-- [請點我下載](https://github.com/justfont/The-Write-Right-Font/releases/download/v2023.0401/the-write-right-font-2023.0401.ttf)。
+- [請點我下載](https://github.com/justfont/The-Write-Right-Font/releases/download/2023.0401/the-write-right-font-2023.0401.ttf)。
 - 或是點選本頁面右側「[Releases](https://github.com/justfont/The-Write-Right-Font/releases)」處的最新發行版本，下載 **the-write-right-font.ttf** 安裝。
 
 ### **使用軟體**
