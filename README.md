@@ -35,10 +35,10 @@ aka 您的在再救星 —— **「就是不錯字（吧）」！**
 
 ### **使用軟體**
 
-- **Pages, Keynote** ：替換字符功能預設為開啟，直接套用本字型，輸入文字即可自動修正。
-- **Adobe Illustrator, Adobe Photoshop** ：替換字符功能預設為開啟，直接套用本字型，輸入文字即可自動修正。
-- **Microsoft Word** ：替換字符功能預設為關閉，請依據[此說明](https://justfont.notion.site/4d415f1db6fc4a8f9ac27a16139986e9)之步驟開啟。
-- **Microsoft Excel, Microsoft PowerPoint**：無支援替換字符功能，因此無法使用。
+- **Pages, Keynote** ：替換字元功能預設為開啟，直接套用本字型，輸入文字即可自動修正。
+- **Adobe Illustrator, Adobe Photoshop** ：替換字元功能預設為開啟，直接套用本字型，輸入文字即可自動修正。
+- **Microsoft Word** ：替換字元功能預設為關閉，請依據[此說明](https://justfont.notion.site/4d415f1db6fc4a8f9ac27a16139986e9)之步驟開啟。
+- **Microsoft Excel, Microsoft PowerPoint**：無支援替換字元功能，因此無法使用。
 
 ## 更新紀錄
 
